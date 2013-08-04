@@ -21,6 +21,8 @@
 		4A5F662217AE5E7C006EDDA8 /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F662017AE5E7C006EDDA8 /* ViewController_iPad.xib */; };
 		4A5F662C17AE5F77006EDDA8 /* HighlightLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A5F662B17AE5F77006EDDA8 /* HighlightLabel.m */; };
 		4A5F662F17AE6019006EDDA8 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A5F662E17AE6019006EDDA8 /* CoreText.framework */; };
+		4A5F663217AE65A3006EDDA8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663017AE65A3006EDDA8 /* LICENSE */; };
+		4A5F663317AE65A3006EDDA8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663117AE65A3006EDDA8 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +46,8 @@
 		4A5F662A17AE5F77006EDDA8 /* HighlightLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HighlightLabel.h; sourceTree = "<group>"; };
 		4A5F662B17AE5F77006EDDA8 /* HighlightLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HighlightLabel.m; sourceTree = "<group>"; };
 		4A5F662E17AE6019006EDDA8 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		4A5F663017AE65A3006EDDA8 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		4A5F663117AE65A3006EDDA8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +125,8 @@
 		4A5F662D17AE5F7B006EDDA8 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				4A5F663017AE65A3006EDDA8 /* LICENSE */,
+				4A5F663117AE65A3006EDDA8 /* README.md */,
 				4A5F662A17AE5F77006EDDA8 /* HighlightLabel.h */,
 				4A5F662B17AE5F77006EDDA8 /* HighlightLabel.m */,
 			);
@@ -184,6 +190,8 @@
 				4A5F661917AE5E7C006EDDA8 /* Default-568h@2x.png in Resources */,
 				4A5F661F17AE5E7C006EDDA8 /* ViewController_iPhone.xib in Resources */,
 				4A5F662217AE5E7C006EDDA8 /* ViewController_iPad.xib in Resources */,
+				4A5F663217AE65A3006EDDA8 /* LICENSE in Resources */,
+				4A5F663317AE65A3006EDDA8 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
