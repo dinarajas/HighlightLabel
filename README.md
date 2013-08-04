@@ -38,6 +38,10 @@ label.highlightText = @"Lorem ipsum dolor sit er elit lamet";
 label.highlightColor = [UIColor yellowColor];
 ```
 
+##Enhancement
+
+For present, It won't support the `textAlignment` for `UILabel`. Hope I will update it soon.
+
 ##Contact
 
 Please forward your queries to me<br />
