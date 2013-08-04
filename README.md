@@ -20,8 +20,8 @@ Now it's easy to highlight any text in your UILabel.
 
 ##Installation
 
-Add the `Classes` folder to your project. Add CoreText framework to your project. DPickerView uses ARC. 
-If you have a project that doesn't use ARC, just add the `-fobjc-arc` compiler flag to the DPickerView files.
+Add the `Classes` folder to your project. Add `CoreText` framework to your project. HighlightLabel uses ARC. 
+If you have a project that doesn't use ARC, just add the `-fobjc-arc` compiler flag to the HighlightLabel files.
 
 ##Usage
 
