@@ -2,8 +2,8 @@
 //  main.m
 //  HighlightLabel
 //
-//  Created by Ragunath Jawahar on 04/08/13.
-//  Copyright (c) 2013 Mobs and Geeks. All rights reserved.
+//  Created by Dinesh Raja on 04/08/13.
+//  Copyright (c) 2013 dina.raja.s@gmail.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
