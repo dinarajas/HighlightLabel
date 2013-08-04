@@ -23,6 +23,8 @@
 		4A5F662F17AE6019006EDDA8 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A5F662E17AE6019006EDDA8 /* CoreText.framework */; };
 		4A5F663217AE65A3006EDDA8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663017AE65A3006EDDA8 /* LICENSE */; };
 		4A5F663317AE65A3006EDDA8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663117AE65A3006EDDA8 /* README.md */; };
+		4A5F663617AE66EB006EDDA8 /* Screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663417AE66EB006EDDA8 /* Screenshot2.png */; };
+		4A5F663717AE66EB006EDDA8 /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A5F663517AE66EB006EDDA8 /* Screenshot1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,8 @@
 		4A5F662E17AE6019006EDDA8 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		4A5F663017AE65A3006EDDA8 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		4A5F663117AE65A3006EDDA8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		4A5F663417AE66EB006EDDA8 /* Screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot2.png; path = ../Screenshot2.png; sourceTree = "<group>"; };
+		4A5F663517AE66EB006EDDA8 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot1.png; path = ../Screenshot1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 		4A5F660917AE5E7B006EDDA8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4A5F663517AE66EB006EDDA8 /* Screenshot1.png */,
+				4A5F663417AE66EB006EDDA8 /* Screenshot2.png */,
 				4A5F660A17AE5E7B006EDDA8 /* HighlightLabel-Info.plist */,
 				4A5F660B17AE5E7B006EDDA8 /* InfoPlist.strings */,
 				4A5F660E17AE5E7B006EDDA8 /* main.m */,
@@ -192,6 +198,8 @@
 				4A5F662217AE5E7C006EDDA8 /* ViewController_iPad.xib in Resources */,
 				4A5F663217AE65A3006EDDA8 /* LICENSE in Resources */,
 				4A5F663317AE65A3006EDDA8 /* README.md in Resources */,
+				4A5F663617AE66EB006EDDA8 /* Screenshot2.png in Resources */,
+				4A5F663717AE66EB006EDDA8 /* Screenshot1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
